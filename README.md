@@ -5,6 +5,12 @@ npm i -g yarn
 npm i -g create-react-app 
 ```
 
+## Start Project
+```
+npm install
+json-server --watch db.json --port 3001
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
